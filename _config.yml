@@ -1,4 +1,1 @@
-theme: jekyll-theme-minimal
-title: Test page
-description: Test description
 include: [".well-known"]
