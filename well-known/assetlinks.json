@@ -1,10 +1,9 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.playmaker.spark",
-        "sha256_cert_fingerprints":
-        ["40:3F:41:15:41:1F:6E:0F:61:A0:85:4B:F8:89:CE:CE:C3:77:E0:8A:7D:74:3F:07:5A:05:2F:8C:0D:48:63:E7"]
-      }
-    }
-]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.playmaker.spark",
+    "sha256_cert_fingerprints":
+    ["40:3F:41:15:41:1F:6E:0F:61:A0:85:4B:F8:89:CE:CE:C3:77:E0:8A:7D:74:3F:07:5A:05:2F:8C:0D:48:63:E7"]
+  }
+}]
